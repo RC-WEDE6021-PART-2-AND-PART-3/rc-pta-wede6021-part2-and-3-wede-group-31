@@ -1,0 +1,5 @@
+John|Doe|johndoe@gmail.com|johndoe|29ef52e7563626a96cea7f4b4085c124
+Jane|Smith|janesmith@gmail.com|janesmith|29ef52e7563626a96cea7f4b4085c124
+Thabo|Mokoena|thabo@gmail.com|thabom|29ef52e7563626a96cea7f4b4085c124
+Sarah|Jones|sarah@gmail.com|sarahj|29ef52e7563626a96cea7f4b4085c124
+Karabo|Tshivhase|karabo@gmail.com|karabod|29ef52e7563626a96cea7f4b4085c124
