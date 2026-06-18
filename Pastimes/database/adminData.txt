@@ -1,0 +1,5 @@
+admin@pastimes.co.za|Admin@123
+manager@pastimes.co.za|Manager@123
+supervisor@pastimes.co.za|Super@123
+support@pastimes.co.za|Support@123
+owner@pastimes.co.za|Owner@123

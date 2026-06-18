@@ -114,6 +114,8 @@ $featured = $conn->query("SELECT * FROM tblClothes
         <li><a href="index.php">Home</a></li>
         <li><a href="listings.php">Listings</a></li>
         <?php if (isset($_SESSION['userID'])): ?>
+            <li><a href="sellItem.php">Sell an Item</a></li>
+            <li><a href="myMessages.php">Messages</a></li>
             <li><a href="cart.php">Cart</a></li>
             <li><a href="dashboard.php">My Account</a></li>
             <li><a href="logout.php">Logout</a></li>

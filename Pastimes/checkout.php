@@ -88,6 +88,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="listings.php">Listings</a></li>
+        <li><a href="sellItem.php">Sell an Item</a></li>
+        <li><a href="myMessages.php">Messages</a></li>
         <li><a href="cart.php">Cart</a></li>
         <li><a href="logout.php">Logout</a></li>
     </ul>

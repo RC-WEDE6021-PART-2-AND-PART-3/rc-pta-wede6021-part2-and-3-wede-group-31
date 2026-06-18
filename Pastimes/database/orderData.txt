@@ -1,0 +1,5 @@
+1|1|280.00|residential|12 Main Road|Cape Town|Western Cape|8001
+2|2|850.00|work|45 Long Street|Johannesburg|Gauteng|2000
+3|3|650.00|residential|7 Beach Road|Durban|KwaZulu-Natal|4001
+4|4|320.00|work|23 Church Street|Pretoria|Gauteng|0001
+5|5|450.00|residential|88 Commissioner St|Bloemfontein|Free State|9300
