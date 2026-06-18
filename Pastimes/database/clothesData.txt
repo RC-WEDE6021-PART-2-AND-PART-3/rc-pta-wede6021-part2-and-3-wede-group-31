@@ -1,0 +1,5 @@
+Nike Hoodie|Nike|L|Good|350.00|nike_hoodie.jpg
+Adidas Tracksuit|Adidas|M|New|500.00|adidas_tracksuit.jpg
+Levi Jeans|Levis|32|Good|280.00|levi_jeans.jpg
+Puma T-Shirt|Puma|S|Fair|150.00|puma_tshirt.jpg
+H&M Dress|H&M|M|New|220.00|hm_dress.jpg
